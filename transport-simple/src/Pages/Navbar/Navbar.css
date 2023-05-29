@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Navbar{
+    /* background-color: rgb(247, 246, 246); */
+    border: 1px solid whitesmoke;
+    box-sizing: border-box;
+}
+
+#logo{
+    text-align: left;
+    padding-left: 30px;
+    
+
+}
+
+#logo img{
+    height: 60px;
+    width: 250px;
+}
+
