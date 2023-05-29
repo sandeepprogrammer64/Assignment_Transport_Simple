@@ -26,6 +26,7 @@ const Navbar = () => {
         <div>
           <h3>Contact Us</h3>
 
+
           
         </div>
       </div>
