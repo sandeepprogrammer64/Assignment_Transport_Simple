@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#Navbar{
+    background-color: rgb(247, 246, 246);
+    border: 1px solid whitesmoke;
+    box-sizing: border-box;
+    display: flex;
+}
+
+#logo{
+    text-align: left;
+    padding-left: 30px;
+    
+
+}
+
+#logo img{
+    height: 60px;
+    width: 250px;
+}
+
+#pages{
+    display: flex;
+    gap: 50px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.demoButton{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.demoButton button {
+    color: white;
+    height: 35px;
+    width: 120px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+
+}
+
+/* .cone {
+    width: 0;
+    height: 0;
+    border-bottom: 200px solid blue;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-radius: 50%;
+    transform: rotate(45deg);
+  } */
+  

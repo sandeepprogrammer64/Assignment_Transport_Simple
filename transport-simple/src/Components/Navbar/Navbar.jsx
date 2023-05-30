@@ -15,7 +15,7 @@ const Navbar = () => {
           <h3>Home</h3>
         </div>
         <div>
-          <h3>Feature</h3>
+          <h3 style={{color:"blue"}}>Feature</h3>
         </div>
         <div>
           <h3>Industry</h3>
@@ -28,10 +28,21 @@ const Navbar = () => {
 
 
 
-          
+
         </div>
       </div>
+
+      <div className="demoButton">
+
+         <button>Get Demo</button>
+
+
+      </div>
+      <div class="cone"></div>
+
+
     </div>
+    
   );
 };
 
