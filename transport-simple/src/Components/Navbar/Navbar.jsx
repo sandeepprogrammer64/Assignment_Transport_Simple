@@ -38,8 +38,7 @@ const Navbar = () => {
 
 
       </div>
-      <div class="cone"></div>
-
+      
 
     </div>
     
