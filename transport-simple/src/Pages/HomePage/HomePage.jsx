@@ -7,6 +7,7 @@ const HomePage = () => {
 
         
     
+    
         {/* <div class="cone"></div> */}
 
     </div>
